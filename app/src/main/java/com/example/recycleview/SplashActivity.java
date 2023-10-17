@@ -34,7 +34,7 @@ public class SplashActivity extends AppCompatActivity {
         t.start();
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("stars");
+        getSupportActionBar().setTitle("Cats");
     }
     @Override
     protected void onPause() {
